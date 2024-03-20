@@ -1,6 +1,6 @@
-# Project Title
+# Currículo Eduardo
 
-A short description about the project and/or client.
+Basicamente o lugar aonde vou colocar os codigos que eu achar interessante feitos por mim.
 
 ## Getting Started
 
