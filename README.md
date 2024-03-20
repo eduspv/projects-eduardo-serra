@@ -1,6 +1,6 @@
 # Currículo Eduardo Serra Pierre Vidal
 
-Basicamente o lugar aonde vou colocar os meu codigos que eu gostei
+Basicamente o lugar aonde vou colocar os meus codigos
 
 ### Sobre o autor 
 
